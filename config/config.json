@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x7A1a9EcA979674617797E28A28c16b3fA0d30196",
+  "SCAN_LINK": "https://scan.coredao.org/0x7A1a9EcA979674617797E28A28c16b3fA0d30196",
+  "NETWORK": {
+    "NAME": "Core Mainnet",
+    "SYMBOL": "CORE",
+    "ID": 1116
+  },
+  "NFT_NAME": "CoreApeYatchClub",
+  "SYMBOL": "CAPE",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "YoungParrot",
+  "MARKETPLACE_LINK": "https://app.youngparrotnft.com/core/collections/coreapeyatchclubs",
+  "Telegram": "https://t.me/CoreSeaFi",
+  "Discord": "https://discord.gg/wpEZgTASXJ",
+  "Twitter": "https://twitter.com/CoreSeaFi",
+  "SHOW_BACKGROUND": true
+}
